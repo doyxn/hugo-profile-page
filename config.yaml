@@ -1,3 +1,4 @@
 baseURL: https://doyxn.github.io/
 languageCode: en-us
 title: Addy Famuyiwa
+theme: hugo-profile
